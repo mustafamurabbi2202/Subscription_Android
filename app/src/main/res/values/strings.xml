@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Netflix_Subscription</string>
+    <!-- Categories -->
+    <string name="subscription">Subscription</string>
+    <string name="utility">Utility</string>
+    <string name="card_payment">Card Payment</string>
+    <string name="loan">Loan</string>
+    <string name="rent">Rent</string>
+
+    <!-- Frequencies -->
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="annually">Annually</string>
+
+    <!-- Apps -->
+    <string name="netflix">Netflix</string>
+    <string name="spotify">Spotify</string>
+    <string name="new_york_times">New York Times</string>
+    <string name="wall_street_journal">Wall Street Journal</string>
+    <string name="hulu">Hulu</string>
+    <string name="apple">Apple</string>
+    <string name="amazon">Amazon</string>
+    <!-- Edit Subscription Screen -->
+    <string name="edit_subscription">Edit Subscription</string>
+    <string name="save">Save</string>
+    <string name="done">Done</string>
+    <string name="delete">Delete</string>
+
+    <!-- Form Fields -->
+    <string name="app">App</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="start_date">Start Date</string>
+    <string name="frequency">Frequency</string>
+    <string name="remind_me">Remind Me</string>
+    <string name="active">Active</string>
+
+    <!-- Search -->
+    <string name="search">Search</string>
+
+</resources>
