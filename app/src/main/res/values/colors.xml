@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="blue_primary">#007AFF</color>
+    <color name="red_primary">#FF3B30</color>
+    <color name="green_primary">#34C759</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#8E8E93</color>
+
+    <!-- Background Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="background_color">#F2F2F7</color>
+    <color name="divider_color">#C6C6C8</color>
+
+    <!-- Search Background -->
+    <color name="search_background">#F2F2F7</color>
+
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+</resources>
+
